@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>designResolutionDeviceIdx</key>
+	<integer>0</integer>
+	<key>devices</key>
+	<array>
+		<dict>
+			<key>DeviceName</key>
+			<string>iPhone 4 &amp; 4S</string>
+			<key>ScaleRatio</key>
+			<real>1</real>
+			<key>ScreenHeight</key>
+			<integer>960</integer>
+			<key>ScreenWidth</key>
+			<integer>640</integer>
+			<key>SuffixName</key>
+			<string></string>
+			<key>color</key>
+			<string>{{0.094531312584877014, 0}, {0.041878394782543182, 1}}</string>
+		</dict>
+		<dict>
+			<key>DeviceName</key>
+			<string>iPhone 5 &amp; 5S</string>
+			<key>ScaleRatio</key>
+			<real>1</real>
+			<key>ScreenHeight</key>
+			<integer>1136</integer>
+			<key>ScreenWidth</key>
+			<integer>640</integer>
+			<key>SuffixName</key>
+			<string>-568</string>
+			<key>color</key>
+			<string>{{1, 1}, {0.078244157135486603, 1}}</string>
+		</dict>
+		<dict>
+			<key>DeviceName</key>
+			<string>iPhone 6</string>
+			<key>ScaleRatio</key>
+			<real>1</real>
+			<key>ScreenHeight</key>
+			<integer>1334</integer>
+			<key>ScreenWidth</key>
+			<integer>750</integer>
+			<key>SuffixName</key>
+			<string>-667</string>
+			<key>color</key>
+			<string>{{1, 1}, {0.078244157135486603, 1}}</string>
+		</dict>
+		<dict>
+			<key>DeviceName</key>
+			<string>iPhone 6 Plus</string>
+			<key>ScaleRatio</key>
+			<real>2</real>
+			<key>ScreenHeight</key>
+			<integer>2208</integer>
+			<key>ScreenWidth</key>
+			<integer>1242</integer>
+			<key>SuffixName</key>
+			<string>-736@2x</string>
+			<key>color</key>
+			<string>{{1, 1}, {0.078244157135486603, 1}}</string>
+		</dict>
+	</array>
+	<key>engine</key>
+	<string>Sprite Kit</string>
+	<key>options</key>
+	<dict>
+		<key>ignoredFolders</key>
+		<array/>
+		<key>name</key>
+		<string>catch crises</string>
+		<key>otherOptions</key>
+		<dict>
+			<key>relativeDocumentsLocation</key>
+			<string>scenes</string>
+		</dict>
+		<key>publishOptions</key>
+		<dict>
+			<key>ScenesOptions</key>
+			<dict>
+				<key>achievements.lhs</key>
+				<dict>
+					<key>publish</key>
+					<true/>
+				</dict>
+				<key>game.lhs</key>
+				<dict>
+					<key>publish</key>
+					<true/>
+				</dict>
+				<key>menu.lhs</key>
+				<dict>
+					<key>publish</key>
+					<true/>
+				</dict>
+				<key>pause.lhs</key>
+				<dict>
+					<key>publish</key>
+					<true/>
+				</dict>
+				<key>quickgame.lhs</key>
+				<dict>
+					<key>publish</key>
+					<true/>
+				</dict>
+				<key>score.lhs</key>
+				<dict>
+					<key>publish</key>
+					<true/>
+				</dict>
+				<key>scorem.lhs</key>
+				<dict>
+					<key>publish</key>
+					<true/>
+				</dict>
+				<key>shop.lhs</key>
+				<dict>
+					<key>publish</key>
+					<true/>
+				</dict>
+				<key>shopm.lhs</key>
+				<dict>
+					<key>publish</key>
+					<true/>
+				</dict>
+			</dict>
+			<key>publisherPluginName</key>
+			<string>Sprite Kit</string>
+			<key>relativePublishLocation</key>
+			<string>publishresource</string>
+			<key>selectedPublishTypeName</key>
+			<string>Current Scene Only</string>
+		</dict>
+	</dict>
+	<key>uuid</key>
+	<string>04E8715E-C5FD-4833-AD9F-85621A031870</string>
+</dict>
+</plist>
