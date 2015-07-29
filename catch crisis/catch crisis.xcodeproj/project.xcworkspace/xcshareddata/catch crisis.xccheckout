@@ -10,31 +10,31 @@
 	<string>catch crisis</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>1F5852BB82A39A1DF903B72AA2685A9A7F2F7943</key>
-		<string>https://github.com/JasonMcCoy/Catch-Crisis</string>
+		<key>D9ADD3DC542DAF5B07BA63929DA38AE8A7760E46</key>
+		<string>https://github.com/JasonMcCoy/https---github.com-JasonMcCoy-Catch-Crisis.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>catch crisis/catch crisis/catch crisis.xcodeproj</string>
+	<string>catch crisis/catch crisis.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>1F5852BB82A39A1DF903B72AA2685A9A7F2F7943</key>
-		<string>../../../..</string>
+		<key>D9ADD3DC542DAF5B07BA63929DA38AE8A7760E46</key>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/JasonMcCoy/Catch-Crisis</string>
+	<string>https://github.com/JasonMcCoy/https---github.com-JasonMcCoy-Catch-Crisis.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>1F5852BB82A39A1DF903B72AA2685A9A7F2F7943</string>
+	<string>D9ADD3DC542DAF5B07BA63929DA38AE8A7760E46</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>1F5852BB82A39A1DF903B72AA2685A9A7F2F7943</string>
+			<string>D9ADD3DC542DAF5B07BA63929DA38AE8A7760E46</string>
 			<key>IDESourceControlWCCName</key>
-			<string>game</string>
+			<string>https---github.com-JasonMcCoy-Catch-Crisis.git</string>
 		</dict>
 	</array>
 </dict>

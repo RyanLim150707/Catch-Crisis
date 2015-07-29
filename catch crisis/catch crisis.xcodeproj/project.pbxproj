@@ -1159,7 +1159,7 @@
 					"$(PROJECT_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "catch crises/MacOS/SpriteKitMac-Prefix.pch";
+				GCC_PREFIX_HEADER = "catch crisis/MacOS/SpriteKitMac-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
@@ -1192,7 +1192,7 @@
 					"$(PROJECT_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "catch crises/MacOS/SpriteKitMac-Prefix.pch";
+				GCC_PREFIX_HEADER = "catch crisis/MacOS/SpriteKitMac-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = "LH_USE_BOX2D=1";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1298,7 +1298,7 @@
 					"$(inherited)",
 					"\"$(SRCROOT)/LevelHelper2-API\"/**",
 				);
-				INFOPLIST_FILE = "$(SRCROOT)/catch crises/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/catch crisis/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1327,7 +1327,7 @@
 					"$(inherited)",
 					"\"$(SRCROOT)/LevelHelper2-API\"/**",
 				);
-				INFOPLIST_FILE = "$(SRCROOT)/catch crises/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/catch crisis/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
