@@ -1,6 +1,7 @@
 http://mccoygames.com/portfolio/catch-crisis/
 here is the code for that page
-[stag_intro]Catch Crisis is a Fun, Addicting, and Cute open-source Arcade game to test your spatial visualization ability, reaction time, and hand-eye coordination.[/stag_intro]
+
+Catch Crisis is a Fun, Addicting, and Cute open-source Arcade game to test your spatial visualization ability, reaction time, and hand-eye coordination.
 
 <!-- Codes by HTML.am -->
 
